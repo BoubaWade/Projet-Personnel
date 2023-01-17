@@ -15,6 +15,9 @@ h1{
     text-align: center;
     line-height: 50px;
 }
+h1:hover{
+    color: rgba(0, 0, 0, 0.559);
+}
 #img-1-page1, #img-2-page1, #img-3-page1, #img-4-page1{
     width: 100%;
     height: 430px;
